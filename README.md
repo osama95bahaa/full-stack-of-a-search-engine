@@ -9,4 +9,6 @@ articles from this website.
 b) Build an indexer for the crawled webpages to be able to search efficiently using different types of
 queries.
 
+- To run the code, unzip the zipped file named project1 and then run the python code using jupyter notebook putting the files that is read in the same directory as the python file.
+
 
